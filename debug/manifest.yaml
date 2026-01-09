@@ -10,4 +10,5 @@ spec:
   containers:
   - name: debug
     image: ramvelcheti/debug:v1
+    imagePullPolicy: Always
    
